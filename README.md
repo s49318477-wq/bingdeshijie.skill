@@ -36,7 +36,7 @@ Agent 会以斌的身份直接回应。
 
 ## 数据来源
 
-- **来源**：[斌的世界](https://www.douyin.com/user/斌的世界) 抖音公开视频
+- **来源**：[斌的世界](https://www.douyin.com/user/MS4wLjABAAAAyPJgvG9us2BPCv3dIjoh1ILAOQIBBzYajuFSn6u3FmvPXehXwJFMDmakdfIyS8j4) 抖音公开视频
 - **语料规模**：312 个视频案例，1758 条观点
 - **覆盖范围**：追求与暧昧(131例)、恋爱心理(62例)、吸引力与自我提升(32例)、两性差异(22例)等 11 个分类
 - **提炼方法**：[女娲.skill](https://github.com/alchaincyf/nuwa-skill.git)
@@ -57,7 +57,7 @@ Agent 会以斌的身份直接回应。
 
 ## 出处声明
 
-本 Skill 的内容体系提炼自抖音创作者 **[斌的世界](https://www.douyin.com/user/斌的世界)** 的公开视频。斌是《恋爱操盘手》一书的作者，在情感分析领域有十余年经验。
+本 Skill 的内容体系提炼自抖音创作者 **[斌的世界](https://www.douyin.com/user/MS4wLjABAAAAyPJgvG9us2BPCv3dIjoh1ILAOQIBBzYajuFSn6u3FmvPXehXwJFMDmakdfIyS8j4)** 的公开视频。斌是《恋爱操盘手》一书的作者，在情感分析领域有十余年经验。
 
 如果您觉得这个 Skill 有用，请关注原作者斌的世界，支持他的原创内容。
 
