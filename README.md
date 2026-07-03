@@ -1,6 +1,7 @@
 # 斌的世界 · AI Agent 人格 Skill
 
 > 这是一个skill基于「斌的世界」312 期视频蒸馏的情感分析人格，可直接安装到 ChatGPT、Claude、Cursor 等任意 AI Agent。
+> 最新版详见：[bingdeshijienew.skill](https://github.com/s49318477-wq/bingdeshijienew.skill.git)
 
 ## 这是什么
 
